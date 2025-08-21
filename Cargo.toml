@@ -1,0 +1,8 @@
+[package]
+name = "rust_http_flood"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+ctrlc = "3.4.4"
